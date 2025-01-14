@@ -15,4 +15,4 @@ Utilizei o GhatGPT para criar uma resenha sobre o assunto Crochê que informasse
 Segue o resultado do projeto https://github.com/Luferraz120578/ebookdesafio/blob/main/e-book%20croche%20.PDF
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Trabalhar com IA não é tão difícil quanto parece e o desafio proposto foi excelente para que eu pudesse utilizar as tecnologias pela primeira vez. 
