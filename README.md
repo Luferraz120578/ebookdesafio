@@ -12,7 +12,7 @@ Utilizei o ChatGPT para desenvolver o texto, o Leonard AI para fazer a imagem e 
 Utilizei o GhatGPT para criar uma resenha sobre o assunto Crochê que informasse sobre sua história e como ele impacta na juventude atual, como o Leonard AI fiz a geração de uma imagem que ilustrasse jovens fazendo crochê em um parque
 
 ## 🚀 Resultados
-Segue o resultado do projeto
+Segue o resultado do projeto https://github.com/Luferraz120578/ebookdesafio/blob/main/e-book%20croche%20.PDF
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
